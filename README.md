@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{Introduction webpage at Epicodus}, {5/23/2017}_
+#### _Introduction webpage at Epicodus, 5/23/2017_
 
-#### By _**{Joe Kramer, Saul Artiga}**_
+#### By _**Joe Kramer, Saul Artiga**_
 
 ## Description
 
-_{This is a simple single page webpage that is used for an introduction into HTML and CSS }_
+_This is a simple single page webpage that is used for an introduction into HTML and CSS_
 
 ## Setup/Installation Requirements
 
@@ -15,15 +15,15 @@ _{This is a simple single page webpage that is used for an introduction into HTM
 
 ## Known Bugs
 
-_{None at this time}_
+_None at this time_
 
 ## Support and contact details
 
-_{none}_
+_none_
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
 
-Copyright (c) 2017 **_{Joe Kramer, Saul Artiga}_**
+Copyright (c) 2017 **_Joe Kramer, Saul Artiga_**
