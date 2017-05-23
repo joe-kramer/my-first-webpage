@@ -1,0 +1,34 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul{
+  font-size: 20px;
+  line-height: 30px;
+  list-style: none;
+}
+
+
+li{
+  padding: 15px;
+}
+
+#li_text{
+  padding-left: 15px;
+  color:pink;
+}
+
+img{
+  width:300px;
+  height:300px;
+}
